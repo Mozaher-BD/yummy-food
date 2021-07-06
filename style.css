@@ -1,0 +1,36 @@
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+    text-align: justify;
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+.title-name{
+    color: darkorange;    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(crimson,orange);
+    padding: 5px 10px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;}
+    .about-me{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+    
